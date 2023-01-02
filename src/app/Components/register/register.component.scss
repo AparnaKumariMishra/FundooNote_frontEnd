@@ -1,0 +1,93 @@
+.layout {
+    padding-top: 150px;
+    padding-left: 320px;
+    padding-right: 300px;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    padding: 15px;
+    border: 1px solid lightgray;
+    box-shadow: 0px 0px 10px #00000029;
+    border-radius: 20px;
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-left: 60px;
+    padding-right: 20px;
+  }
+  
+  .reg-container {
+    display: flex;
+    min-width: 60%;
+    flex-direction: column;
+  }
+  
+  .image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    text-align: center;
+    color: #42515f;
+    font-size: 17px;
+    padding-left: 80px;
+    padding-right: 10px;
+  }
+  .imgtext
+  {
+    padding-right: 50px;
+  }
+  .form-head{
+    padding: 15px;
+    padding-left: 255px;
+
+  }
+  .form-account
+  {
+    padding-left: 130px;
+  }
+  
+  .form-group {
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+  }
+  
+  mat-hint {
+    font-size: small;
+    font-size: 15px;
+    color: #68696b;
+    text-decoration: none;
+    padding-bottom: 20px;
+    padding-left: 10px;
+  }
+  .confpass
+  {
+    margin-bottom: 5px;
+  }
+  .form-group1
+  {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+  }
+  .form-field {
+    width:100%;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .btn-instead {
+    font-weight: 500;
+    color: #1a73e8;
+    padding: 10px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
